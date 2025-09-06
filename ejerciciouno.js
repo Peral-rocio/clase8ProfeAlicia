@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")({ sigint: true });
+//const prompt = require("prompt-sync")({ sigint: true });
 
 // **********************************************************EJERCICIO UNO 
 // En este ejercicio, practicarás el uso de variables y operadores aritméticos. Debes
@@ -12,9 +12,9 @@ const prompt = require("prompt-sync")({ sigint: true });
 
 //originalmente lo pense asi:
 
-let numeroUsuario = prompt ("Hola, ingrese un número porfavor");
+// let numeroUsuario = prompt ("Hola, ingrese un número porfavor");
 
-console.log(numeroUsuario*2)
+// console.log(numeroUsuario*2)
 
 //luego me di cuenta que podia resolverlo asi tambien:
 
