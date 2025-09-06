@@ -9,14 +9,14 @@
 // 3. Muestre un mensaje indicando cuál es el caso.
 
 //SOLUCION:
-const prompt = require('prompt-sync')();
+// const prompt = require('prompt-sync')();
 
- let numeroIngresado = prompt("Ingrese un número porfavor");
+//  let numeroIngresado = prompt("Ingrese un número porfavor");
 
-if (numeroIngresado > 0) {
-    console.log("Este numero es positivo"); }
-    if (numeroIngresado < 0){
-        console.log("este numero es negativo");
-    } else if ( numeroIngresado == 0)
-     { console.log("este numero es 0");
-    }
+// if (numeroIngresado > 0) {
+//     console.log("Este numero es positivo"); }
+//     if (numeroIngresado < 0){
+//         console.log("este numero es negativo");
+//     } else if ( numeroIngresado == 0)
+//      { console.log("este numero es 0");
+//     }
